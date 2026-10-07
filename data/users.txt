@@ -1,0 +1,3 @@
+ST101|Aarav|aarav@campus.edu|student123|STUDENT
+ST102|Diya|diya@campus.edu|diya123|STUDENT
+AD001|Dr. Mehta|admin@campus.edu|admin123|ADMIN
